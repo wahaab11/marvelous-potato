@@ -30,7 +30,7 @@ fields:
   config:
     required: true
 pages:
-- contact.md
-- features.md
-- _index.md
-- pricing.md
+- content/_index.md
+- content/contact.md
+- content/features.md
+- content/pricing.md

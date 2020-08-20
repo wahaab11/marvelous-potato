@@ -10,9 +10,8 @@ fields:
 - type: text
   name: section_id
   label: Element ID
-  description: >-
-    Element ID can be used in links to scroll the page to this section when link
-    clicked
+  description: Element ID can be used in links to scroll the page to this section
+    when link clicked
 - type: text
   name: subtitle
   label: Subtitle
@@ -20,7 +19,7 @@ fields:
 - type: textarea
   name: content
   label: Content
-  description: 'Section content, appears before contact form'
+  description: Section content, appears before contact form
   config:
     wysiwyg: true
     schema:

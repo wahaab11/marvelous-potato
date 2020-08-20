@@ -49,12 +49,12 @@ fields:
   config:
     required: true
 pages:
-- blog/azimuth-improvements.md
-- blog/customer-loyalty.md
-- blog/customer-service-skills-that-every-employee-needs.md
-- blog/design-azimuth.md
-- blog/design-team-collaborates.md
-- blog/sales-as-service.md
-- blog/set-big-goals.md
-- blog/user-journey-mapping.md
-- blog/working-from-home.md
+- content/blog/azimuth-improvements.md
+- content/blog/customer-loyalty.md
+- content/blog/customer-service-skills-that-every-employee-needs.md
+- content/blog/design-azimuth.md
+- content/blog/design-team-collaborates.md
+- content/blog/sales-as-service.md
+- content/blog/set-big-goals.md
+- content/blog/user-journey-mapping.md
+- content/blog/working-from-home.md

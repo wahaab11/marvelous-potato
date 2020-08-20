@@ -24,6 +24,6 @@ fields:
   config:
     required: true
 pages:
-- about.md
-- signup.md
-- style-guide.md
+- content/about.md
+- content/signup.md
+- content/style-guide.md
