@@ -35,7 +35,7 @@ params:
     type: footer
     template: footer
     logo_img: images/logo_alt.png
-    tagline: SaaS theme by Stackbit
+    tagline: Wahaab Siddique.
     has_nav: true
     nav_title: Company
     nav_links:
@@ -77,12 +77,7 @@ params:
     subscribe_title: Subscribe
     subscribe_content: Stay up to date with our latest developments.
     content: "&copy; Stackbit. All rights reserved."
-    links:
-    - type: action
-      template: action
-      label: Made with Stackbit
-      url: https://www.stackbit.com
-      new_window: true
+    links: []
 taxonomies:
   stub: stub
 disableKinds:
