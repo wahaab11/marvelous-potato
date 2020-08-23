@@ -7,7 +7,7 @@ params:
     type: header
     template: header
     title: Azimuth
-    logo_img: images/logo.png
+    logo_img: "/images/logo_transparent-2.png"
     has_nav: true
     nav_links:
     - type: action
