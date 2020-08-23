@@ -34,7 +34,7 @@ params:
   footer:
     type: footer
     template: footer
-    logo_img: images/logo_alt.png
+    logo_img: "/images/logo_transparent-2.png"
     tagline: Wahaab Siddique.
     has_nav: true
     nav_title: Company
